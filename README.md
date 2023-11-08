@@ -21,6 +21,6 @@
 <img align="center" alt="postgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div></br>
 
-###Software engineering student, always looking for ways to improve your skills!
+##Software engineering student, always looking for ways to improve your skills!
 
   
