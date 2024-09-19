@@ -5,7 +5,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=new)
 
-![Ribarski GitHub Stats](https://github-readme-stats.vercel.app/api?username=ribarski&show_icons=true&theme=onedark)
 
 ## Technologies I use in my day 🚀
 
